@@ -76,9 +76,9 @@ public class ventana1 extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
        lblmensaje.setText("Hola, me llamo Victoria");
-       lblmensaje1.setText("Como te va");}
-       lblmensaje2. seText ("Muy bien ");
-   }//GEN-LAST:event_jButton1ActionPerformed
+       lblmensaje1.setText("Como te va");
+       lblmensaje2. setText ("Bien ");
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
