@@ -78,6 +78,7 @@ public class ventana1 extends javax.swing.JFrame {
        lblmensaje.setText("Hola, me llamo Victoria");
        lblmensaje1.setText("Como te va");
        lblmensaje2. setText ("Bien ");
+      lblmensaje3.setText("estoybien");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
